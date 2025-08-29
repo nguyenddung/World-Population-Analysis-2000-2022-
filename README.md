@@ -44,6 +44,6 @@ Tạo Dashboard trực quan bằng Streamlit / Dash để người dùng tự t�
 👨‍💻 Tác giả
 
 Nguyễn Đức Dũng – FPT University – AI Major
-📧 Email: nguyenddung@example.com
+📧 Email: infor.nguyenddung@gmail.com
 
 🌐 GitHub: nguyenddung
